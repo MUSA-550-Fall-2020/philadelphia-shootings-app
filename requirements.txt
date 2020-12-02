@@ -1,0 +1,11 @@
+panel
+geopandas
+folium
+altair==3.2.0
+notebook
+vega
+param
+holoviews
+hvplot
+bokeh
+carto2gpd
