@@ -71,4 +71,4 @@ dependencies:
       - osm2gpd==1.0.1
       - webdriver_manager==3.2.2
       - jupyter-panel-proxy==0.1.0
-      - jupyter-server-proxy==1.1.0
+      - jupyter-server-proxy==1.5.0
